@@ -1,12 +1,25 @@
 {
-  "name": "pink-18",
+  "name": "barbershop-borodinski",
   "version": "17.0.0",
   "private": true,
-  "description": "Личный проект «Пинк» от HTML Academy",
+  "description": "Лекционный проект «Бородинский» от HTML Academy",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
     "stylelint": "10.1.x",
-    "stylelint-config-htmlacademy": "0.1.x"
+    "stylelint-config-htmlacademy": "0.1.x",
+    "css-loader": "^5.2.4",
+    "html-webpack-plugin": "^5.3.1",
+    "less": "^4.1.1",
+    "less-loader": "^8.1.1",
+    "mini-css-extract-plugin": "^1.6.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^11.0.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.36.1",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   },
   "scripts": {
     "editorconfig": "editorconfig-cli",
