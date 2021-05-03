@@ -5,8 +5,6 @@
   "description": "Лекционный проект «Бородинский» от HTML Academy",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
-    "stylelint": "10.1.x",
-    "stylelint-config-htmlacademy": "0.1.x",
     "css-loader": "^5.2.4",
     "html-webpack-plugin": "^5.3.1",
     "less": "^4.1.1",
@@ -15,6 +13,8 @@
     "node-sass": "^5.0.0",
     "sass-loader": "^11.0.1",
     "style-loader": "^2.0.0",
+    "stylelint": "10.1.x",
+    "stylelint-config-htmlacademy": "0.1.x",
     "webpack": "^5.36.1",
     "webpack-cli": "^4.6.0"
   },
